@@ -6,4 +6,4 @@ P. P. Angelov, X. Gu, J. C. Principe, "Autonomous learning multi-model systems f
 IEEE Transactions on Fuzzy Systems, vol. 26(4), pp. 2213-2224, 2018.
 ==================================================================================================
 Please cite the paper above if this code helps. 
-Programmed by Xiaowei Gu. For any queries about the code, please contact Dr. Xiaowei Gu: x.gu3@lancaster.ac.uk
+Programmed by Xiaowei Gu. For any queries about the code, please contact Dr. Xiaowei Gu: xig4@aber.ac.uk
